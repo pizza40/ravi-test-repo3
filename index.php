@@ -10,5 +10,11 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
     Voluptate ratione dolores cum sunt saepe. Quidem, corporis libero suscipit velit voluptatum id? 
     Mollitia, saepe! Reprehenderit non temporibus dolor omnis nihil? Exercitationem!</p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
